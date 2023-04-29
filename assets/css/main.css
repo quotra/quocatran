@@ -3245,16 +3245,16 @@ input, select, textarea {
 		}
 
 		#nav blockquote {
-			border-left-color: #dddddd;
+			border-left-color: #000000;
 		}
 
 		#nav code {
 			background: rgba(222, 222, 222, 0.25);
-			border-color: #dddddd;
+			border-color: #000000;
 		}
 
 		#nav hr {
-			border-bottom-color: #dddddd;
+			border-bottom-color: #000000;
 		}
 
 		#nav + #main {
